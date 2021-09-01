@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Recipes/task/Recipes.Recipes-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/toString()/Convert vehicles and cars to string/Recipes.Topics-toString__-Convert_vehicles_and_cars_to_string.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/toString()/Convert vehicles and cars to string/Recipes.Topics-toString__-Convert_vehicles_and_cars_to_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/toString()/Convert vehicles and cars to string/Recipes.Topics-toString__-Convert_vehicles_and_cars_to_string.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/toString()/Convert vehicles and cars to string/Recipes.Topics-toString__-Convert_vehicles_and_cars_to_string.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/toString()/Convert vehicles and cars to string/Recipes.Topics-toString__-Convert_vehicles_and_cars_to_string.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/toString()/Convert vehicles and cars to string/Recipes.Topics-toString__-Convert_vehicles_and_cars_to_string.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/toString()/Theory/Recipes.Topics-toString__-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/toString()/Theory/Recipes.Topics-toString__-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/toString()/Theory/Recipes.Topics-toString__-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/toString()/Theory/Recipes.Topics-toString__-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/toString()/Theory/Recipes.Topics-toString__-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/toString()/Theory/Recipes.Topics-toString__-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Recipes.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Recipes.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Recipes.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Recipes.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Recipes.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Recipes.util.test.iml" />
+    </modules>
+  </component>
+</project>

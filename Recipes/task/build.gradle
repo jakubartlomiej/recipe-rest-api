@@ -1,0 +1,27 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '2.3.1.RELEASE'
+    id 'io.spring.dependency-management' version '1.0.9.RELEASE'
+}
+
+sourceCompatibility = 11
+
+repositories {
+    mavenCentral()
+}
+
+sourceSets.main.resources.srcDirs = ["resources"]
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter'
+    implementation 'org.springframework.boot:spring-boot-starter-actuator'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.hibernate:hibernate-core:5.5.7.Final'
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa:2.3.1.RELEASE'
+    implementation 'org.springframework.boot:spring-boot-starter-validation:2.5.4'
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+    implementation 'javax.validation:validation-api:2.0.1.Final'
+    implementation 'com.h2database:h2:1.4.200'
+    compileOnly 'org.projectlombok:lombok:1.18.18'
+    annotationProcessor 'org.projectlombok:lombok:1.18.18'
+}
